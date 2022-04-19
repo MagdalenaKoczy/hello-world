@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+test one - (the guide tutorial)
+test two - GitHubDesktop
